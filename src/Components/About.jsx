@@ -18,12 +18,10 @@ const About = () => {
             data-aos-duration="600"
             className="leading-relaxed tracking-widest mt-10"
           >
-            Given the current buzz surrounding tokens such as 4chan and Reddit,
-            it is plausible to envision Medium as a thriving token. Its
-            utilization for announcement dissemination, sharing of whitepapers
-            and technical documentation, provision of educational content,
-            establishment of thought leadership, community engagement, and
-            reinforcement of marketing and branding endeavors make Medium an
+            Its utilization for announcement dissemination, sharing of
+            whitepapers and technical documentation, provision of educational
+            content, establishment of thought leadership, community engagement,
+            and reinforcement of marketing and branding endeavors make Medium an
             attractive candidate for success in the cryptocurrency space.
           </p>
         </article>

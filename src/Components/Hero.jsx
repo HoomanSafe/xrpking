@@ -30,7 +30,7 @@ const Hero = () => {
           <a
             data-aos="fade-right"
             data-aos-duration="600"
-            href=""
+            href="https://t.me/MEDIUM_ERC"
             className="flex items-center gap-3 text-white  bg-black  px-8 py-3 rounded-md font-medium capitalize ring ring-primary/60"
           >
             <TbBrandTelegram /> join telegram

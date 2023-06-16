@@ -17,14 +17,10 @@ const Header = () => {
         </a>
 
         <div className="hidden lg:flex items-center gap-7 justify-between">
-          <p
-            href=""
-            className=" font-primary cursor-pointer font-medium uppercase tracking-wide italic hover:text-white"
-          >
+          <p className=" font-primary cursor-pointer font-medium uppercase tracking-wide italic hover:text-white">
             home
           </p>
           <p
-            href=""
             className=" font-primary cursor-pointer font-medium uppercase tracking-wide italic hover:text-white"
             onClick={() => {
               scroll.scrollTo(document.querySelector("#about"));
@@ -33,7 +29,9 @@ const Header = () => {
             about
           </p>
           <p
-            href=""
+            onClick={() => {
+              scroll.scrollTo(document.querySelector("#tokenomics"));
+            }}
             className=" font-primary cursor-pointer font-medium uppercase tracking-wide italic hover:text-white"
           >
             tokenomics

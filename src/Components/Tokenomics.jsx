@@ -3,7 +3,10 @@ import Chart from "../assets/token.png";
 
 const Tokenomics = () => {
   return (
-    <section className="py-[80px] w-full bg-black divide divide-white">
+    <section
+      id="tokenomics"
+      className="py-[80px] w-full  bg-black divide divide-white"
+    >
       <div className="container text-center flex justify-center items-center flex-col gap-7">
         <h1
           className="text-5xl capitalize underline decoration-wavy font-bold text-primary"
@@ -19,7 +22,7 @@ const Tokenomics = () => {
           be a good runner. With the right community we can push it.
         </p>
 
-        <img src={Chart} alt="" loading="lazy" className="mt-10"/ >
+        <img src={Chart} alt="" loading="lazy" className="mt-10" />
       </div>
     </section>
   );

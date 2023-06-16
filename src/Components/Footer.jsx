@@ -14,7 +14,7 @@ const Footer = () => {
           <a href="" className="text-4xl">
             <SiTelegram />
           </a>{" "}
-          <a href="" className="text-4xl">
+          <a href="https://twitter.com/medium_erc20" className="text-4xl">
             <AiFillTwitterSquare />
           </a>{" "}
         </div>

@@ -39,7 +39,8 @@ const Header = () => {
         </div>
 
         <a
-          href=""
+          href="https://www.dextools.io/app/ru/ether/pair-explorer/0x3cf55b8d0beddc24ce83182e8916dc0f9cc0c414"
+          target="_blank"
           data-aos="fade-left"
           data-aos-duration="900"
           className="text-white bg-black  px-8 py-3 rounded-md font-medium capitalize ring ring-primary/60"

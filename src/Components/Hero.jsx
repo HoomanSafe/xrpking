@@ -25,6 +25,16 @@ const Hero = () => {
           Given the current buzz surrounding tokens such as 4chan and Reddit, it
           is plausible to envision Medium as a thriving token.
         </p>
+        <h2 className="text-4xl font-bold uppercase text-black hero-welcome">
+          ca
+        </h2>
+        <p
+          className="max-w-[800px] mx-auto font-bold break-all"
+          data-aos="fade-up"
+          data-aos-duration="500"
+        >
+          0xfFF59Ef0dD78cb982082eD169A024841db7a1c36
+        </p>
 
         <div className="flex items-center gap-4 flex-wrap mt-8 justify-center">
           <a

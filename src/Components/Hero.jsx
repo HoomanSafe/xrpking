@@ -2,6 +2,9 @@ import React from "react";
 import { AiFillTwitterSquare } from "react-icons/ai";
 import { TbBrandTelegram } from "react-icons/tb";
 import Logo2 from "../assets/logo2.png";
+import etherscan from "../assets/etherscan.png";
+import dextool from "../assets/dextool.png";
+dextool;
 
 const Hero = () => {
   return (
@@ -35,6 +38,24 @@ const Hero = () => {
         >
           0xfFF59Ef0dD78cb982082eD169A024841db7a1c36
         </p>
+        <div className="flex items-center gap-4 flex-wrap mt-8 justify-center">
+          <a
+            data-aos="fade-right"
+            data-aos-duration="600"
+            href="https://etherscan.io/token/0xfff59ef0dd78cb982082ed169a024841db7a1c36"
+            className="w-[3rem]"
+          >
+            <img src={etherscan} alt="" />
+          </a>
+          <a
+            data-aos="fade-right"
+            data-aos-duration="600"
+            href="https://www.dextools.io/app/ru/ether/pair-explorer/0x3cf55b8d0beddc24ce83182e8916dc0f9cc0c414"
+            className="w-[2rem]"
+          >
+            <img src={dextool} alt="" />
+          </a>
+        </div>
 
         <div className="flex items-center gap-4 flex-wrap mt-8 justify-center">
           <a

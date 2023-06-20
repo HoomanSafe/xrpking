@@ -28,6 +28,10 @@ const App = () => {
       stagger: 0.2,
       x: 20,
     });
+
+    document.querySelectorAll("img").forEach((ele) => {
+      ele.setAttribute = ("loading", "lazy");
+    });
   });
   return (
     <div className="min-h-screen overflow-hidden w-full font-primary font-normal bg-primary text-black">

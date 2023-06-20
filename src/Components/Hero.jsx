@@ -4,7 +4,7 @@ import { TbBrandTelegram } from "react-icons/tb";
 import Logo2 from "../assets/logo2.png";
 import etherscan from "../assets/etherscan.png";
 import dextool from "../assets/dextool.png";
-dextool;
+
 
 const Hero = () => {
   return (

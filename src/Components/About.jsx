@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../assets/logo.jpg";
+import Logo from "../assets/xrplogo.jpg";
 
 const About = () => {
   return (
@@ -11,18 +11,17 @@ const About = () => {
             data-aos="fade-right"
             data-aos-duration="1000"
           >
-            about <span className="text-primary font-bold">medium</span>
+            about <span className="text-primary font-bold">XrpKing</span>
           </h1>
           <p
             data-aos="fade-left"
             data-aos-duration="600"
             className="leading-relaxed tracking-widest mt-10"
           >
-            Its utilization for announcement dissemination, sharing of
-            whitepapers and technical documentation, provision of educational
-            content, establishment of thought leadership, community engagement,
-            and reinforcement of marketing and branding endeavors make Medium an
-            attractive candidate for success in the cryptocurrency space.
+            A human-focused technology and innovation business that extends blockchain technology for a brighter future.
+Deeply connected and driven by our award-winning community, we're growing forever. Building blockchain products and making 
+            King XRP currency more widely known and acquiring new types of value from crypto technologies and their applications for ever-increasing uses. We now address the second part of our mission – extending and extending our technology to drive new innovations for good, 
+            and modeling The King XRP's Efforts to advance those innovations to every part of the world.
           </p>
         </article>
         <img src={Logo} alt="" loading="lazy" data-aos="flip-out" />

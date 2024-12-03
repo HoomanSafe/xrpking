@@ -17,7 +17,7 @@ const Tokenomics = () => {
         </h1>
 
         <p className="text-white tracking-widest">
-          Tax only on launch to REKT BOTS/SNIPERS and will reduce to 6/6. Will
+          Tax only on launch to REKT BOTS/SNIPERS and will reduce to 5/5. Will
           use the tax for buybacks and push the project. With the XrpKing hype can
           be a good runner. With the right community we can push it.
         </p>

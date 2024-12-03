@@ -74,6 +74,14 @@ const Hero = () => {
           >
             <AiFillTwitterSquare /> follow twitter
           </a>
+           <a
+            data-aos="fade-left"
+            data-aos-duration="600"
+            href=""
+            className="flex items-center gap-3 text-white  bg-black  px-8 py-3 rounded-md font-medium capitalize ring ring-primary/60"
+          >
+           follow Vault Pool
+          </a>
         </div>
       </div>
     </section>

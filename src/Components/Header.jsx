@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo12.png";
 import LocomotiveScroll from "locomotive-scroll";
 
 const Header = () => {
@@ -39,7 +39,7 @@ const Header = () => {
         </div>
 
         <a
-          href="https://www.dextools.io/app/ru/ether/pair-explorer/0x3cf55b8d0beddc24ce83182e8916dc0f9cc0c414"
+          href="https://www.dextools.io/app/en/bnb/pair-explorer/0x2092d49f87825ac79ba1113b53b88b27b551ab6f?t=1733230394644"
           target="_blank"
           data-aos="fade-left"
           data-aos-duration="900"

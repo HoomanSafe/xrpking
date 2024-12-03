@@ -8,13 +8,13 @@ const Footer = () => {
     <footer className="py-[20px] w-full bg-primary">
       <div className="container flex justify-center items-center flex-col">
         <div className="flex items-center gap-4">
-          <a href="" className="text-4xl">
+          <a href="https://xrpl.org/docs/tutorials" className="text-4xl">
             <MdOutgoingMail />
           </a>{" "}
-          <a href="https://t.me/MEDIUM_ERC" className="text-4xl">
+          <a href="https://t.me/TheKingXRP" className="text-4xl">
             <SiTelegram />
           </a>{" "}
-          <a href="https://twitter.com/medium_erc20" className="text-4xl">
+          <a href="http://x.com/TheXRPKing" className="text-4xl">
             <AiFillTwitterSquare />
           </a>{" "}
         </div>

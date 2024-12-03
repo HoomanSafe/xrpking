@@ -1,5 +1,5 @@
 import React from "react";
-import Chart from "../assets/token.png";
+import Chart from "../assets/kingking.jpg";
 
 const Tokenomics = () => {
   return (
@@ -17,8 +17,8 @@ const Tokenomics = () => {
         </h1>
 
         <p className="text-white tracking-widest">
-          Tax only on launch to REKT BOTS/SNIPERS and will reduce to 0/0. Will
-          use the tax for buybacks and push the project. With the 4CHAN hype can
+          Tax only on launch to REKT BOTS/SNIPERS and will reduce to 6/6. Will
+          use the tax for buybacks and push the project. With the XrpKing hype can
           be a good runner. With the right community we can push it.
         </p>
 
